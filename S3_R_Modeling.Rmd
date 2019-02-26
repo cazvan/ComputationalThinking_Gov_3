@@ -22,7 +22,7 @@ This session will work with a collection of indexes:
 
 ```{r, eval=TRUE}
 link='https://raw.githubusercontent.com/EvansDataScience/data/master/allIndexes.csv'
-indexes=read.csv(link,stringsAsFactors = F)
+indexes=read.csv(link,stringsAsFactors = F) #this turns strings into categorical variables
 
 names(indexes)
 ```
