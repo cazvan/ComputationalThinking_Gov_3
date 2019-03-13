@@ -65,8 +65,6 @@ _____
 
 <a id='part1'></a>
 
-
-
 ## Linear Regression
 
 You need a linear regression when your variable of interest is continuous (a measurement). In this case, I will simply use the EPI as my *explanandum* (Y):
